@@ -1,0 +1,1 @@
+# TabulkyFaktovPHPMySql_Skola
